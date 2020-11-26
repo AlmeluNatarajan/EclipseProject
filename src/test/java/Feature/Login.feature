@@ -9,5 +9,3 @@ Then Home Screen is launched
 @RegTest
 Scenario: HomePage Login
 Given User is on Landing Page
-When User gives incorrect username and password
-Then Home Screen shoyld not be launched
